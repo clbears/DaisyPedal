@@ -46,7 +46,7 @@ dynamic and are remapped per-mode by firmware.
 ## Setup
 
 ```sh
-git clone --recursive <this-repo-url>
+git clone --recursive https://github.com/clbears/DaisyPedal.git
 # or, if already cloned without --recursive:
 git submodule update --init --recursive
 ```
